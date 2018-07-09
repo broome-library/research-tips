@@ -1,0 +1,10 @@
+{
+    "description": "JSBL Research Tips",
+    "structure":{
+        "readme":"intro.md"
+    },
+    "title":"Research Tips",
+    "variables": {
+        "librarian":"git+https://git.gitbook.com/broome-library/shared.git/contacts/lcarroll.md"        
+    }
+}
